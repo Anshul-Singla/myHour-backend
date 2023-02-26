@@ -2,7 +2,7 @@
 
 ### Goal
 
-- Create a simple product website:
+- Create a backend which keeps tracks of time & projects :- 
   - Login
   - Signup
   - Organize projects
