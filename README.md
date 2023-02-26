@@ -1,17 +1,17 @@
 # myHour-backend
 
-# Goal
+### Goal
 
 - Create a simple product website:
-  - login
-  - signup
-  - list products // done
-  - get my cart items
-  - add item to cart
-  - remove item from cart
-  - update quantity of item in cart
+  - Login
+  - Signup
+  - Organize projects
+  - Track time
+  - Report your work
+  - Coordinate projects and tasks
+  - Track your work hours .
 
-# Schema
+### Schema
 
 - user
   - name, required
@@ -28,7 +28,7 @@
   - userId
   - quantity
 
-# Follow this steps:
+### Follow this steps:
 
 1. npm init -y
 2. npm i express mongoose
